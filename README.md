@@ -46,4 +46,7 @@ This project was completed as part of my **3-month Digital Marketing Internship*
 
 ---
 
-## 📂 Repository Structure
+## ✅ Conclusion
+Competitor analysis highlights gaps & opportunities in the EdTech space.  
+Digital marketers can use such insights to optimize SEO, content, and audience engagement strategies.
+
